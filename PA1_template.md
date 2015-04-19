@@ -22,14 +22,6 @@ set.seed(1)
 library(plyr,       verbose=FALSE, warn.conflicts=FALSE)
 library(dplyr,      verbose=FALSE, warn.conflicts=FALSE)
 library(data.table, verbose=FALSE, warn.conflicts=FALSE)
-```
-
-```
-## data.table 1.9.4  For help type: ?data.table
-## *** NB: by=.EACHI is now explicit. See README to restore previous behaviour.
-```
-
-```r
 library(ggplot2,    verbose=FALSE, warn.conflicts=FALSE)
 library(lattice,    verbose=FALSE, warn.conflicts=FALSE)
 library(lubridate,  verbose=FALSE, warn.conflicts=FALSE)
